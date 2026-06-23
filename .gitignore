@@ -1,0 +1,6 @@
+.codegpt/
+product_similarity_df.pkl
+*.pkl
+*.mp4
+.venv/
+__pycache__/
